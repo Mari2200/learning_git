@@ -5,3 +5,8 @@ int main()
 	std::cout << "Hello world" << std::endl;
 	return 0;
 }
+
+const char* getString()
+{
+	return "kkkkkkkk";
+}
